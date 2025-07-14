@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Jigwan Joe (조지관)
 
-<!--
-**crushonyou2/crushonyou2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-oriented developer who loves building practical systems with clarity and speed.  
+This GitHub houses my personal and collaborative work.
 
-Here are some ideas to get you started:
+🎯 **My Portfolio Site**  
+[📁 Click to View Portfolio](https://crushonyou2.github.io/my-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Want to reach out?  
+[✉️ Contact Form](https://crushonyou2.github.io/my-portfolio/#contact)
+
+📍 Based in Korea  
+💻 Languages: Java, Python, JavaScript (React), SQL
